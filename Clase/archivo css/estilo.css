@@ -1,18 +1,24 @@
-header
-{
+header {
     background-color: aqua;
 }
-h1{
+
+h1 {
     text-align: center;
 }
-#inicioSesion{
+
+#inicioSesion {
     text-align: right;
 }
-div
-{
+
+div {
     background-color: blueviolet;
 }
+
 #categoria {
     color: #F99417;
 }
-#ofertas {color:#3876BF;}
+
+#ofertas {
+    color: #3876BF;
+    font-family: 'Graduate', serif;
+}
