@@ -5,6 +5,5 @@ Brindado por UTN Avellaneda
 
  Clase1:
  formato de la pagina web
- ![pagina](https://github.com/LucilaLuz/Curso-AprendiendoProgramando-Web1/assets/107776697/29cd619b-05d6-4840-8da9-2b026d7a6b91)
-
  
+![diseño](https://github.com/LucilaLuz/Curso-AprendiendoProgramando-Web1/assets/107776697/7b8cc3b4-29bd-49cb-8453-660bef65daab)
