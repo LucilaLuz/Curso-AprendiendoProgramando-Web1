@@ -1,24 +1,42 @@
 header {
     background-color: aqua;
+    border: 3px solid #3876BF;
 }
 
 h1 {
     text-align: center;
 }
 
-#inicioSesion {
+nav {
+    border: 3px solid rgb(175, 209, 225);
+}
+
+nav#inicioSesion {
     text-align: right;
+    position: sticky;
+    top: 0;
 }
 
-div {
+div.producto
+{
     background-color: blueviolet;
+    border: 2px solid red;
+    max-width: 200px;
 }
 
-#categoria {
+section {
+    border: 2px solid #5f9476;
+}
+
+h2#categoria {
     color: #F99417;
 }
 
-#ofertas {
+h2#ofertas {
     color: #3876BF;
     font-family: 'Graduate', serif;
+}
+
+footer {
+    border: 2px solid coral;
 }
